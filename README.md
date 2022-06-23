@@ -55,7 +55,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
- Developed by : A.Divya Mennakshi
+ Developed by : A.Divya Meenakshi <br>
  Register number : 212220230014
 
 ### Display the input Image
